@@ -1,0 +1,196 @@
+header{
+    height:50px;
+    /* border:5px solid red; */
+    background-color: #82123ceb;
+}
+.social-logo{
+    height:40px;
+}
+#brand{
+    font-size:30px;
+    color:black;
+    margin-left:1%;
+    margin-top:0.5%;
+    float:left;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#social{
+    float:right;
+    margin-right:1%;
+    margin-top:0.5%;
+}
+a{
+    text-decoration: none;
+}
+body{
+    margin:auto;
+    /* background-color:#8d5e808a; */
+}
+#main{
+    width:90%;
+    /* border:2px solid red; */
+    margin-left: 5%;
+    margin-top: 2%;
+    display:inline-block;
+    margin-bottom:2%;
+}
+.filter{
+    width:20%;
+    height:750px;
+    /* border:2px solid blue; */
+    margin-left:1.5%;
+    margin-top:-.75%;
+    float:left;
+    background-color: #8c254b4f;
+}
+#filter_by{
+    width: 100%;
+    height: 3%;
+    font-size: 19px;
+    margin-top: 7%;
+    background-color: #bdb8b1;
+}
+.filter_box{
+    height:100px;
+    width:40%;
+    margin-left:10%;
+    /* border:2px solid pink; */
+    margin-top:-14px;
+    float:left;
+}
+.filter_box1{
+    height: 100px;
+    width: 38%;
+    margin-left: 10%;
+    /* border: 2px solid pink; */
+    margin-top: -14px;
+    float: left;
+}
+.filter_box2{
+    height: 100px;
+    width: 38%;
+    margin-left: 10%;
+    /* border: 2px solid pink; */
+    margin-top: -14px;
+    float: left;
+}
+.filter_box3{
+    height: 165px;
+    width: 30%;
+    margin-left: 10%;
+    /* border: 2px solid pink; */
+    margin-top: -14px;
+    float: left;
+}
+#filter_Discount{
+    font-size: 15px;
+    float: left;
+    height: 3%;
+    width: 100%;
+    margin-top: 4%;
+    margin-bottom: 7%;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;;
+}
+#apply{
+    margin-left: 22%;
+    margin-top: 64%;
+    float:left;
+}
+
+/* .filter_box > input{
+    float:left;
+} */
+.listing{
+    width:75%;
+    /* border:2px solid green; */
+    float:left;
+    margin-left:1.5%;
+    margin-top:-0.75%;
+}
+.listing_blocks{
+    width:30%;
+    height:450px;
+    /* border:2px solid orange; */
+    float:left;
+    margin-left:2%;
+    margin-top:2%;
+    box-shadow:10px 8px 12px #dbbbc7;
+}
+.image_block{
+    height:75%;
+    width:100%;
+    /* border:2px solid yellow; */
+}
+.image_block > img{
+    height:100%;
+    width:100%;
+}
+.text_block{
+    height:25%;
+    width:100%;
+    /* border:2px solid brown; */
+
+}
+.text_block_heading{
+    font-size: 20px;
+    font-weight:bold;
+    font-family:'Times New Roman', Times, serif;
+    margin-bottom: 5px;
+    margin-top: 8px;
+    margin-left:5px;
+    /* color:black !important; */
+}
+.text_block_heading > a{
+    color:black !important;
+}
+.matter{
+    font-size: 17px;
+    /* font-weight:bold; */
+    font-family:'Times New Roman', Times, serif;
+    color:#39383d;
+    margin-bottom:2px;
+    margin-top:2px;
+    margin-left:5px;
+}
+.S_Price{
+    font-size: 20px;
+    font-weight:bold;
+    font-family:'Times New Roman', Times, serif;
+    float:left;
+    margin-top:11px;
+    margin-left:5px;
+}
+.A_Price{
+    font-size: 15px;
+    font-family:'Times New Roman', Times, serif;
+    float:left;
+    margin-top:14px;
+}
+.offer_discount{
+    font-size: 15px;
+    /* font-weight:bold; */
+    font-family:'Times New Roman', Times, serif;
+    color:orange;
+    margin-top:15px;
+}
+footer{
+    height:80px;
+    /* border:5px groove hotpink; */
+    background-color: #82123ceb;
+    color:white;
+}
+.footerDiv{
+    text-align: center;
+    height:50px;
+    width:32%;
+    float:left;
+    color:white;
+    border-right: 2px solid white;
+}
+ul{
+    list-style-type: none;
+}
+.noborder{
+    border:none;
+}
